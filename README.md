@@ -1,4 +1,4 @@
-# 36202: 
+# 36202: Methods For Statistics and Data Science 
 
 Predicting Dress Sales | sample-project2.pdf
 
